@@ -15,6 +15,8 @@ A list of interesting blogs/papers I have read about various deep-learning metho
 ### Meta Learning
 * [Matching Networks for One Shot Learning](https://github.com/karpathy/paper-notes/blob/master/matching_networks.md) [[Paper link](https://arxiv.org/abs/1606.04080)]
 * [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400)
+* [Foreground-aware Semantic Representations for Image Harmonization](
+https://www.catalyzex.com/paper/arxiv:2006.00809?fbclid=IwAR0vNw89W8GWAkwMVPPsDoMtHHtQJSTfrSnDrDr9slC4uv_Iv8rJHiOsKb8)
 
 ### Transfer Learning
 * [How transferable are features in deep neural networks?](https://arxiv.org/abs/1411.1792)
